@@ -1,2 +1,0 @@
-# Native
-Native fivem
